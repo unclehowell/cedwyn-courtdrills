@@ -10,11 +10,9 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-07T17:17:59Z",
- "count": 3,
- "not_in_central": [
-  "EV-0244"
- ],
+ "synced_utc": "2026-11-08T06:08:48Z",
+ "count": 4,
+ "not_in_central": [],
  "items": {
   "EV-0049": {
    "id": "EV-0049",
@@ -42,6 +40,15 @@
    "date_sort": "2026-03-23",
    "status": "HELD",
    "page": null
+  },
+  "EV-0244": {
+   "id": "EV-0244",
+   "kind": "evidence",
+   "title": "Welsh Government ATISN 26-0010 disclosure response: retention and destruction schedules; searches under the farm name, Western Ground Rents Ltd and BP Properties Ltd",
+   "date_display": "19 October 2026 (emailed 10:25 BST)",
+   "date_sort": "2026-10-19",
+   "status": "HELD — open the letter (PDF, Wayback archive). Public copy: the requester’s personal email address is redacted; nothing else is changed.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0244-welsh-government-atisn-26-0010-disclosure-response-19-oct-2026/"
   }
  }
 }
